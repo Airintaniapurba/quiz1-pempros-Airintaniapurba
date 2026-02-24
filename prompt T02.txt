@@ -1,0 +1,29 @@
+From Gemini:
+1. Data nilai siswa disimpan dalam sebuah rak fisik yang tersusun rapat. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok siswa dipisahkan. 
+Input:
+1.  Jumlah total data (N).
+2.  Deret nilai (n1, n2, …, n).
+3.  Kode kelompok siswa
+
+**Tugas**
+Buatlah program yang mampu menentukan total nilai hanya untuk kelompok yang diminta.
+<p align="center">
+  <img src="image/pola.jpeg" width="300">
+</p>
+, jadi disini saya mempunyai tugas, saya mau membuat program menggunakan bahasa c untuk memecahkan masalah tersebut, gunakan indeks dan array pada permasalahan tersebut disitu ada 3 ketentua dimana yang pertama ada jumlah total(N) deret nilai dan kode kelompok siswa, perhatikan nilai yang ada pada gambar serta nama, apa yang bisa anda dapatkan dari gambar tersebut beradasarkan 3 ketentuan tersebut , buatlah programnya 
+
+2. Data nilai siswa disimpan dalam sebuah rak fisik yang tersusun rapat. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok siswa dipisahkan. 
+Input:
+1.  Jumlah total data (N).
+2.  Deret nilai (n1, n2, …, n).
+3.  Kode kelompok siswa
+
+**Tugas**
+Buatlah program yang mampu menentukan total nilai hanya untuk kelompok yang diminta.
+<p align="center">
+  <img src="image/pola.jpeg" width="300">
+</p>
+, jadi disini saya mempunyai tugas, saya mau membuat program menggunakan bahasa c untuk memecahkan masalah tersebut, gunakan indeks dan array pada permasalahan tersebut disitu ada 3 ketentua dimana yang pertama ada jumlah total(N) deret nilai dan kode kelompok siswa, perhatikan nilai yang ada pada gambar serta nama, apa yang bisa anda dapatkan dari gambar tersebut beradasarkan 3 ketentuan tersebut , buatlah programnya 
+disini saya menggunakan penalaran
+
+3. jadi disini input yang saya harus masukkan apa ?

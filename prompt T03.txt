@@ -1,0 +1,6 @@
+FROM Gemini:F
+1. Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del., jadi disini saya mau membuat sebuah program menggunakan bahasa c, disini anda bebas membuat sistem apa saja mislanya kasir, tapi jangan anda buat kasir tetapi yang lain, input output bebas tetapi harus logis dengan program yang dibuat
+2.Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del., jadi disini saya mau membuat sebuah program menggunakan bahasa c, disini anda bebas membuat sistem apa saja mislanya kasir, tapi jangan anda buat kasir tetapi yang lain, input output bebas tetapi harus logis dengan program yang dibuat
+3.input dan output yang harus saya gunakan apa 
+4.jika diminta Masukkan ID Mesin yang selesai diservis: saya harus input apa
+5. apakah ada sistem lain yang bisa anda buat?
